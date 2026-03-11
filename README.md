@@ -1,14 +1,4 @@
-# PROCESSO SELETIVO SEPLAG - EDITAL 01/2026 ENGENHEIRO DE COMPUTAÇÃO
-# DADOS DE INSCRIÇÃO
-
-N° Inscrição: 16386 <br>
-Gabriel Henrique Ferreira Alves <br>
-CPF: 019.825.091-63 <br>
-E-mail: gabrielhf257@gmail.com <br>
-Vaga: Engenheiro da Computação - Back-end<br>
-
-# DOCUMENTAÇÃO DO PROJETO EM PDF
-
+# DOCUMENTAÇÃO DO PROJETO
 
 # PROGRAMAS NECESSARIOS PARA EXECUÇÃO DO PROJETO
  *OPÇÃO 1 - EXECUÇÃO LOCAL (SEM DOCKER)*
